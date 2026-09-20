@@ -32,8 +32,8 @@ Both models incorporate **SMOTE (Synthetic Minority Over-sampling Technique)** w
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/zombie-status-classifier.git
-   cd zombie-status-classifier
+   git clone https://github.com/your-username/zombie_status.git
+   cd zombie-status
    ```
 
 2. **Create and activate a virtual environment:**
